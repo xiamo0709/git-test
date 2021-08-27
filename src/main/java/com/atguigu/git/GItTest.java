@@ -10,5 +10,7 @@ public class GItTest {
         System.out.println("XiaMo2");
         System.out.println("hot-fixTest");
         System.out.println("master test");
+        System.out.println("master xiamo");
+        System.out.println("master bing");
     }
 }
